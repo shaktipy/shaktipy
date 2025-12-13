@@ -21,7 +21,7 @@ Currently, I am:
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Java, Python, 
+* **Languages:** Java, Python, MySQL, HTML, CSS, JavaScript
 * **DSA:** Arrays, Strings, Hashing, Recursion, Trees (in progress)
 * **AI/ML:** NumPy, Pandas (learning)
 * **Backend:** Flask / FastAPI (learning)
