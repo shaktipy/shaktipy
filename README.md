@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,30:FF4500,70:FFD700,100:0B0B0F&height=280&section=header&text=Shakti%20Vardhan%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=FFB347"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F23,35:6B7078,65:B8BCC2,100:1F1F23&height=280&section=header&text=Shakti%20Vardhan%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Agents%20%7C%20Software%20Development&descAlignY=60&descSize=18&descColor=F3F4F6"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF6600&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Backend-focused+CS+Undergrad;Python+%7C+Java+%7C+Flask+%7C+Django+%7C+Full+Stack;GSSoC+%2726+Contributor+%26+Ambassador;Code+%2B+Chai+%3D+Clean%2C+Scalable+Apps;Exploring+Full-Stack+%26+Open+Source+%7C+GSoC+2027+Ready;LeetCode+Grinder+%7C+DSA+Enthusiast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF6600&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Backend-focused+CS+Undergrad;Python+%7C+Java+%7C+Flask+%7C+Django+%7C+React+%7C+Full+Stack;Building+AI+Agent+Systems+with+LangGraph+%26+LLMs;GSSoC+%2726+Contributor+%26+Ambassador;Code+%2B+Chai+%3D+Clean%2C+Scalable+Apps;350%2B+LeetCode+Problems+Solved;Google+Student+Ambassador+2026" alt="Typing SVG"/>
 
 <br/>
 
@@ -18,8 +18,8 @@
 
 ```diff
 !  🔥 SYSTEM STATUS: ACTIVELY BUILDING
-!  MODE: FULL-STACK + OPEN SOURCE CONTRIBUTOR
-!  CURRENT_MISSION: MASTER GITHUB ACTIONS → GSOC 2027
+!  MODE: FULL-STACK + AI AGENTS + SOFTWARE DEVELOPMENT
+!  CURRENT_MISSION: GITHUB ACTIONS + DSA → GSOC 2027
 ```
 
 ---
@@ -29,10 +29,12 @@
 ```yaml
 name       : Shakti Vardhan Singh
 handle     : shaktipy
-role       : Full Stack Developer | Software Development | Open Source Contributor
-education  : B.Tech CSE — Parul University, Vadodara (3rd Year)
+role       : Full Stack Developer | AI Agents | Software Development
+education  : B.Tech CSE — Parul University, Vadodara (3rd Year, Expected 2028)
 open_source: GSSoC '26 Contributor & Ambassador
-building   : Real-world apps with Python, Flask, Django, and AI integrations
+internship : Infosys Springboard Virtual Intern (Cohort 7.0) — Best Project in batch
+building   : Multi-agent AI systems and real-world apps with Python, Flask, Django & React
+dsa        : 350+ problems solved on LeetCode (rating 1550)
 next_target: GitHub Actions mastery → GSoC 2027
 motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 ```
@@ -41,44 +43,76 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 ## ⚙️ Tech Arsenal
 
-| 🔥 Backend | 🎨 Frontend | 🗄️ Database | 🛠️ Tools |
-|:---:|:---:|:---:|:---:|
-| Python, Java, C | HTML5, CSS3 | MySQL, MongoDB | Git, GitHub |
-| Flask, Django | JavaScript (ES6+) | PostgreSQL, SQL | VS Code, PyCharm |
-| REST APIs, MVC | Responsive Design | DBMS Design | Azure CLI |
-| Streamlit | Flexbox/Grid | Database Migrations | Chrome DevTools |
+**💻 Languages**
 
-<details>
-<summary><b>🔥 Click to fire up the full stack</b></summary>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+**🎨 Frontend**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
+**⚙️ Backend & APIs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+
+**🤖 AI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+![GitHub MCP](https://img.shields.io/badge/GitHub_MCP-181717?style=for-the-badge&logo=github&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=lightning&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**📊 Data & Scraping**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-43B02A?style=for-the-badge&logo=scrapy&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**🛠️ Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+**🧠 Core Competencies**
+
+![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-FF4500?style=for-the-badge&logo=java&logoColor=white)
+![System Design Basics](https://img.shields.io/badge/System_Design_Basics-1F1F23?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![LeetCode 350+](https://img.shields.io/badge/LeetCode_350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
@@ -88,18 +122,35 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 <tr>
 <td width="50%">
 
+### 🤖 AI Agent Coordination & Decision Engine
+*Automated multi-agent code reviewer*
+
+`Python` `LangGraph` `LangChain` `GitHub MCP` `RAG` `Groq API` `Bandit` `Radon`
+
+→ LangGraph-based Master Orchestrator routes requests to specialized review agents  
+→ 4 agents: Security, Complexity & Performance, Docs & Testing, Code Quality  
+→ GitHub MCP fetches repo code directly, saving up to 65% of review time  
+→ Category-wise remediation + RAG-powered developer chatbot
+
+📂 **[GitHub](https://github.com/shaktipy/ai-agent-coordination-and-decision-engine)**
+
+</td>
+<td width="50%">
+
 ### 📁 Smart File Organizer
 *Automated file categorization & organization system*
 
 `Python` `Flask` `JavaScript` `HTML` `CSS`
 
 → Auto-detects file types & creates organized folders  
-→ Seamless file movement with intuitive frontend  
-→ Full-stack with robust backend logic
+→ Client-side processing cuts upload latency by 45%  
+→ Fail-safe Flask routing for duplicates & dynamic allocation
 
-🔗 **[Live Demo](https://smart-file-organizer-1y9g.onrender.com/)** &nbsp;|&nbsp; 📂 **[GitHub](https://github.com/shaktipy)**
+🔗 **[Live Demo](https://smart-file-organizer-1y9g.onrender.com/)** &nbsp;|&nbsp; 📂 **[GitHub](https://github.com/shaktipy/Smart-File-Organizer)**
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✈️ Traveloop
@@ -114,8 +165,6 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 📂 **[GitHub](https://github.com/shaktipy)**
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎯 Smart Internship Allocation Engine
@@ -129,16 +178,32 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 📂 **[GitHub](https://github.com/shaktipy)**
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🧠 AI Learning Resource Manager *(Upcoming)*
+### 🧠 AI Learning Resource Manager
 *AI-powered content summarizer for modern learners*
 
-`Flask` `AI APIs` `Web Scraping` `Python`
+`Python` `Flask` `Gemini API` `Beautiful Soup` `YouTube Transcript API`
 
-→ Paste any URL (article, YouTube, doc) → get concise summary  
-→ Advanced AI models for content accessibility  
-→ Scalable backend handling multiple resource types
+→ Paste any URL (blog, article, YouTube) → get a structured summary  
+→ Cuts review time by 65% with Gemini-generated summaries  
+→ Saves links + summaries for later access
+
+📂 **[GitHub](https://github.com/shaktipy)**
+
+</td>
+<td width="50%">
+
+### 🎮 XO Esports *(Upcoming)*
+*Full-stack fan engagement & esports tournament platform for the Free Fire community*
+
+`React` `Vite` `Flask` `Supabase` `Razorpay` `SQLite`
+
+→ Main Platform: coin rewards, daily/weekly missions, redeem codes, giveaways  
+→ Esports Mode: tournament registration, passes, esports giveaways  
+→ Admin Panel: full backend management
 
 🚧 **Coming Soon...**
 
@@ -155,7 +220,7 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 | 🌐 Program | ⚡ Role | 📈 Focus |
 |:---|:---:|:---|
 | 🌸 **GirlScript Summer of Code '26** | Contributor & Ambassador | Multiple merged PRs, active contributions |
-| 💼 **Infosys Springboard Virtual Internship 7.0** | Intern | Industry-level training & project development |
+| 💼 **Infosys Springboard Virtual Internship 7.0** | Intern | Multi-agent AI code review workflows (LangGraph, Groq) — Best Project in batch |
 | 🎓 **Google Student Ambassador** | Ambassador | Community building & tech outreach |
 
 ### 🏅 GSSoC '26 Badges
@@ -167,24 +232,24 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" width="75"/><br/>
-  <sub><b>First Steps</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="75"/><br/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="90"/><br/>
   <sub><b>Point Scorer</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png" width="75"/><br/>
-  <sub><b>Getting Started</b></sub>
+  <img src="assets/badges/gssoc-badge-role_ambassador.png" width="90"/><br/>
+  <sub><b>Ambassador</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="75"/><br/>
-  <sub><b>Bounty Hunter</b></sub>
+  <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png" width="90"/><br/>
+  <sub><b>Power Contributor</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://gssoc.girlscript.org/badges/milestone/early_bird.png" width="75"/><br/>
-  <sub><b>Early Bird</b></sub>
+  <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="90"/><br/>
+  <sub><b>Rising Star</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="assets/badges/gssoc-badge-role_contributor.png" width="90"/><br/>
+  <sub><b>Contributor</b></sub>
 </td>
 </tr>
 </table>
@@ -211,9 +276,9 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaktipy&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/shaktipy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaktipy&show_icons=true&theme=highcontrast&bg_color=0B0B0F&title_color=FF6600&text_color=FFD700&icon_color=FF4500&hide_border=true&count_private=true)](https://github.com/shaktipy)
 
 <br/>
 
@@ -223,6 +288,7 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 
 
+<!-- After deploying your own instance, replace github-readme-activity-graph.vercel.app below with your own Vercel domain -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaktipy&theme=tokyo-night&bg_color=0B0B0F&color=FF6600&line=FFD700&point=FF4500&hide_border=true)
 
 </div>
@@ -233,6 +299,9 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 | Certification | Issuer |
 |:---|:---:|
+| ✔️ GitHub Copilot (GH-300) Certified | Microsoft |
+| ✔️ Azure AI Fundamentals (AI-901) Certified | Microsoft |
+| ✔️ DBMS | CodeTantra |
 | ✔️ HTML & CSS | Certiport |
 | ✔️ JavaScript | Certiport |
 | ✔️ Python Fundamentals | IBM |
@@ -241,7 +310,9 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 | ✔️ Building Agents using Copilot Studio | Microsoft |
 | ✔️ Computer Networks and Internet Protocol (CNIP) | NPTEL |
 | ✔️ Technical Certifications | Cisco, Infosys, Google |
-| 🏆 Smart India Hackathon (SIH) | Participant |
+| 🏆 Best Project — Infosys Springboard Cohort 7.0 | Infosys |
+| 🏆 Smart India Hackathon (SIH), Odoo & Adobe Hackathons | Team Leader |
+| 🧩 LeetCode — 350+ problems solved, rating 1550 | LeetCode |
 | 📖 Tata Crucible Quiz | Participation Certificate |
 
 ---
@@ -250,11 +321,10 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 ```json
 {
-  "Q3_2026": "🔥 GitHub Actions CI/CD — deep mastery",
-  "Q4_2026": "🔥 Advanced DSA + consistent open source contributions",
+  "Q4_2026": "🔥 GitHub Actions mastery + DSA",
   "Q1_2027": "🔥 GSoC organization research + proposal drafting",
   "Q2_2027": "🔥 GSoC coding phase — build real impact",
-  "ongoing": "MERN Stack + DSA practice + Open Source contributions"
+  "ongoing": "MERN Stack + DSA practice + Real time projects"
 }
 ```
 
@@ -274,16 +344,12 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 <div align="center">
 
-<div align="center">
-
 ```diff
 !  "Code is like fire — you can warm the world with it,
 !   or burn it. Choose wisely. I choose to build."
 ```
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,30:FF4500,70:FFD700,100:0B0B0F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F23,35:6B7078,65:B8BCC2,100:1F1F23&height=120&section=footer"/>
 
 <sub>⚡ Forged with ☕ and ⌨️ by <b>Shakti Vardhan Singh</b> | Keep blazing 🔥</sub>
 
