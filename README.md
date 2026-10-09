@@ -289,7 +289,7 @@ motto      : "Code + Chai = Clean, Scalable Apps 🚀"
 
 
 <!-- After deploying your own instance, replace github-readme-activity-graph.vercel.app below with your own Vercel domain -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaktipy&theme=tokyo-night&bg_color=0B0B0F&color=FF6600&line=FFD700&point=FF4500&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph-3-xdraco.vercel.app/graph?username=shaktipy&theme=tokyo-night&bg_color=0B0B0F&color=FF6600&line=FFD700&point=FF4500&hide_border=true)
 
 </div>
 
